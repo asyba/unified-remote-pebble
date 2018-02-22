@@ -1,0 +1,164 @@
+{
+    "appKeys": {
+        "datakey": 0,
+        "datakey1": 1,
+        "datakey2": 2,
+        "datakey3": 3
+    },
+    "companyName": "underdopi",
+    "longName": "Unified Remote",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/TDOWN.png",
+                "name": "IMAGE_TDOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/TUP.png",
+                "name": "IMAGE_TUP",
+                "type": "png"
+            },
+            {
+                "file": "images/Slide.png",
+                "name": "IMAGE_SLIDE",
+                "type": "png"
+            },
+            {
+                "file": "images/Media.png",
+                "name": "IMAGE_MEDIA",
+                "type": "png"
+            },
+            {
+                "file": "images/Windows.png",
+                "name": "IMAGE_WINDOWS",
+                "type": "png"
+            },
+            {
+                "file": "images/Winamp.png",
+                "name": "IMAGE_WINAMP",
+                "type": "png"
+            },
+            {
+                "file": "images/Monkey.png",
+                "name": "IMAGE_MONKEY",
+                "type": "png"
+            },
+            {
+                "file": "images/FooBar.png",
+                "name": "IMAGE_FOOBAR",
+                "type": "png"
+            },
+            {
+                "file": "images/Pandora.png",
+                "name": "IMAGE_PANDORA",
+                "type": "png"
+            },
+            {
+                "file": "images/UR-ICON.png",
+                "menuIcon": true,
+                "name": "IMAGE_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/down_fast.png",
+                "name": "IMAGE_DOWN_FAST",
+                "type": "png"
+            },
+            {
+                "file": "images/Splash Screen.png",
+                "name": "IMAGE_LOGO_UNIFIED",
+                "type": "png"
+            },
+            {
+                "file": "images/photo_2_2 (Custom).png",
+                "name": "IMAGE_WHITE",
+                "type": "png"
+            },
+            {
+                "file": "images/photo_2 (Custom).png",
+                "name": "IMAGE_BLACK",
+                "type": "png"
+            },
+            {
+                "file": "images/ppt.png",
+                "name": "IMAGE_LOGO_PPT",
+                "type": "png"
+            },
+            {
+                "file": "images/action_icon_minus.png",
+                "name": "IMAGE_P_START",
+                "type": "png"
+            },
+            {
+                "file": "images/downn.png",
+                "name": "IMAGE_P_DOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/upp.png",
+                "name": "IMAGE_P_UP",
+                "type": "png"
+            },
+            {
+                "file": "images/Netflix (Custom).png",
+                "name": "IMAGE_LOGO_NETFLIX",
+                "type": "png"
+            },
+            {
+                "file": "images/18-youtube-128 (Custom).png",
+                "name": "IMAGE_LOGO_YOUTUBE",
+                "type": "png"
+            },
+            {
+                "file": "images/itunes_A-128 (Custom).png",
+                "name": "IMAGE_LOGO_ITUNES",
+                "type": "png"
+            },
+            {
+                "file": "images/logo (Custom) (2).png",
+                "name": "IMAGE_LOGO_XBMC",
+                "type": "png"
+            },
+            {
+                "file": "images/spotify_256 (Custom).png",
+                "name": "IMAGE_LOGO_SPOTIFY",
+                "type": "png"
+            },
+            {
+                "file": "images/vlc_icon_l.png",
+                "name": "IMAGE_LOGO_VLC",
+                "type": "png"
+            },
+            {
+                "file": "images/up_fast.png",
+                "name": "IMAGE_UP_FAST",
+                "type": "png"
+            },
+            {
+                "file": "images/actionbar_playpause.png",
+                "name": "IMAGE_PLAY",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_down.png",
+                "name": "IMAGE_DOWN",
+                "type": "png"
+            },
+            {
+                "file": "images/arrow_up.png",
+                "name": "IMAGE_UP",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "Unified Remote",
+    "uuid": "344ca0b6-9aca-4cf6-a2d1-4a72699f8751",
+    "versionCode": 1,
+    "versionLabel": "1.3",
+    "watchapp": {
+        "watchface": false
+    }
+}
